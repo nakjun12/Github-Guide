@@ -1,1 +1,1 @@
-console.log("이미 충돌입니다.");
+console.log("충돌 났습니다.");
